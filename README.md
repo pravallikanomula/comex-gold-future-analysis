@@ -1,12 +1,11 @@
 # 📊 Gold Futures Market Analysis & Price Prediction — Commodities Trading
 
-## 🧭 1️⃣ Layout
-**Project Type:** Time Series Forecasting, Exploratory Data Analysis (EDA)  
+##**Project Type:** Time Series Forecasting, Exploratory Data Analysis (EDA)  
 **Industry:** Commodities / Financial Markets / Trading Analytics  
 
 ---
 
-## 🪙 2️⃣ Executive Summary
+## 2️⃣ Executive Summary
 This project explores and forecasts **Comex Gold Futures** prices — a crucial benchmark reflecting global economic sentiment, inflation expectations, and investor confidence.  
 
 Through detailed **exploratory data analysis (EDA)** and basic predictive modeling, the study identifies how gold behaves as both an **investment hedge** and a **macroeconomic indicator**.  
@@ -14,7 +13,7 @@ The goal is to uncover patterns, volatility clusters, and seasonal trends that c
 
 ---
 
-## 💼 3️⃣ Business Problem
+## 3️⃣ Business Problem
 Gold prices fluctuate due to a complex mix of **macroeconomic factors**, including inflation, interest rates, and geopolitical instability.  
 For traders and financial analysts, understanding these movements is essential for risk management and timing decisions.  
 
@@ -25,7 +24,7 @@ For traders and financial analysts, understanding these movements is essential f
 
 ---
 
-## ⚙️ 4️⃣ Methodology
+## 4️⃣ Methodology
 **Data Source:** Historical Comex Gold Futures data  
 
 **Process Overview:**
@@ -43,7 +42,7 @@ For traders and financial analysts, understanding these movements is essential f
 
 ---
 
-## 🧠 5️⃣ Skills & Tools
+## 5️⃣ Skills & Tools
 - **Languages:** Python  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Analytical Techniques:** Rolling windows, pivot tables, log/percentage returns  
@@ -53,7 +52,7 @@ For traders and financial analysts, understanding these movements is essential f
 
 ---
 
-## 📈 6️⃣ Results & Business Insights
+## 6️⃣ Results & Business Insights
 - **Seasonal Patterns:** Gold shows stronger returns in Q1 and Q3 — correlating with global demand cycles.  
 - **Momentum Indicators:** MA50/MA200 crossovers effectively captured long-term trend shifts.  
 - **Forecasting:** Linear regression achieved ~75% directional accuracy for short-term movement prediction.  
@@ -61,7 +60,7 @@ For traders and financial analysts, understanding these movements is essential f
 
 ---
 
-## 🚀 7️⃣ Next Steps
+## 7️⃣ Next Steps
 - Integrate macroeconomic variables (CPI, USD Index, Treasury yields) to improve forecasting accuracy.  
 - Experiment with **ARIMA, Prophet, and LSTM** models for deeper time-series analysis.  
 - Build an interactive **Streamlit dashboard** to visualize real-time gold trends and predictions.  
